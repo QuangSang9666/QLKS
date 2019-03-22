@@ -1,0 +1,11 @@
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\bin\Debug\CoCaNgua.exe
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\bin\Debug\CoCaNgua.pdb
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.csprojAssemblyReference.cache
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.TheHien.TheHienQuanCo.resources
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.TheHien.TheHienXiNgau.resources
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.TheHien.TuyChon.resources
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.TheHien.FormXuLyChinh.resources
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.csproj.GenerateResource.cache
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.exe
+C:\Users\Nguyen Quang Sang\Downloads\SourceDoAnC# - J2TeaM Community\C#\Game cờ cá ngựa C#\CoCaNgua\Backup\obj\Debug\CoCaNgua.pdb
